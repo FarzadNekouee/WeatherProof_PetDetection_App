@@ -80,6 +80,6 @@ deactivate
 
 
 ## 🔗 Additional Resources
-- 🌐 **Kaggle Notebook**: Explore our model development process on Kaggle [here](https://www.kaggle.com/code/farzadnekouei/weather-proof-pet-detection).
+- 🌐 **Kaggle Notebook**: Explore model development process on Kaggle [here](https://www.kaggle.com/code/farzadnekouei/weather-proof-pet-detection-app).
 - 🤝 **Connect on LinkedIn**: For questions or collaborations, connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
 
