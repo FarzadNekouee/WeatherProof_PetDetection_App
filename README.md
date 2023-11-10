@@ -1,5 +1,5 @@
 # 🐾 Weather-Proof Pet Detection: A Desktop Application
-#### 🌦️ A Comprehensive Solution Leveraging Transfer Learning, Data Augmentation, and Tkinter for Desktop Deployment
+#### 🌦️ A Comprehensive Solution Leveraging Transfer Learning, Data Augmentation, and Desktop Deployment
 
 ![Weather-Proof Pet Detection](cover_images/Cover_Image.png)
 
