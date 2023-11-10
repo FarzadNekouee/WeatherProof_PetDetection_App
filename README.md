@@ -1,7 +1,7 @@
 # 🐾 Weather-Proof Pet Detection: A Desktop Application
 ### 🌦️ A Comprehensive Solution Leveraging Transfer Learning, Data Augmentation, and Tkinter for Desktop Deployment
 
-![Weather-Proof Pet Detection](cover_images/Cover_Iamge.png)
+![Weather-Proof Pet Detection](cover_images/Cover_Image.png)
 
 ## 📖 Overview
 Welcome to our project repository, showcasing a robust and efficient model for distinguishing between dogs and cats, adaptable to various weather conditions and deployed as a desktop application using the Tkinter library. Our journey involved extensive data exploration, transfer learning with advanced models, and the development of a user-friendly desktop application.
@@ -39,7 +39,7 @@ To review the model development process:
 ### Setting Up the Environment and Dependencies
 To set up the environment and run the desktop application, follow these steps:
 1. Open your terminal or command prompt.
-2. Create a new Python environment (ensure you have Python 3.9.13 installed):
+2. Create a new Python environment (ensure you have Python 3.9 installed):
     ```bash
     python -m venv weatherproof-pet-env
     ```
@@ -73,6 +73,7 @@ To run the desktop app:
 Remember to deactivate the virtual environment when you're done:
 ```bash
 deactivate
+```
 
 ### 📸 App Performance Showcase with Test Images
 ![App Performance Showcase with Test Images](cover_images/showcase.png)
